@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+- **Frontend:** https://factoryops-h4ze5chflcxrqoeqmj95u.streamlit.app/
+- **Backend API:** https://factoryops-2677.onrender.com/
+- **API Documentation:** https://factoryops-2677.onrender.com/docs
 # FactoryOps – Smart Factory Monitoring & Predictive Maintenance
 
 FactoryOps is a smart factory monitoring application designed to monitor
